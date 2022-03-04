@@ -36,6 +36,7 @@
 <img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" />
 <img align="left" alt="Selenium" width="26px" src="https://camo.githubusercontent.com/bbd92eaef8705bfae20588a179ba0f7b25e6f18990cd332c4957b934a29f5d67/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f53656c656e69756d5f4c6f676f2e706e672f38363170782d53656c656e69756d5f4c6f676f2e706e67" />
 <img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
 [instagram]: https://www.instagram.com/hassan._.niaziii/

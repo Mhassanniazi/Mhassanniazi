@@ -12,8 +12,9 @@
 ### Skilled In:
 
 - Python, JS, PHP.
-- Django web Developer
+- Web Developer: Frontend- ReactJS, Backend- Django, API- Django Rest Framework DRF
 - tkinter, pyqt based desktop Applications
+- GIT version control
 
 ### Connect me On:
 

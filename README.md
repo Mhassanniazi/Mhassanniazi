@@ -4,7 +4,7 @@
 ### Something About me:point_down:
 
 - :bowing_man:I’m currently exploring Data science:bowing_man:
-- 💬 Ask me about Python, web development, data science & Django
+- 💬 Ask me about Python, web development (Flask, Django, React JS), data science
 - ⚡ Fun fact: I love Hanging out with friends
 - 📫 How to reach me: muhammadhassanniazi85@gmail.com
 - Here is my **Resume**: [Resume](https://drive.google.com/file/d/1Om_WVIF_NRQR8gNIiIGENYt5zoEXfJpx/view?usp=sharing)
@@ -12,7 +12,8 @@
 ### Skilled In:
 
 - Python, JS, PHP.
-- Web Developer: Frontend- ReactJS, Backend- Django, API- Django Rest Framework DRF
+- Web Developer: Frontend- ReactJS, Backend- Flask/Django, API- Django Rest Framework DRF
+- Web scraping: Scrapy, Selenium, & Beautifulsoup.
 - tkinter, pyqt based desktop Applications
 - GIT version control
 

@@ -43,8 +43,8 @@
 ![Selenium](https://img.shields.io/badge/selenium-092E20?style=for-the-badge&logo=selenium&logoColor=white)
 ![SCRAPY](https://img.shields.io/badge/Scrapy-6DB33F?style=for-the-badge&logo=Scrapy&logoColor=white)
 ![BS4](https://img.shields.io/badge/beautiful%20soup-14354C?style=for-the-badge&logo=bs4&logoColor=white)
-![PANDAS](https://img.shields.io/badge/pandas-fff?style=for-the-badge&logo=pandas&logoColor=black)
-![NUMPY](https://img.shields.io/badge/numpy-fff?style=for-the-badge&logo=numpy&logoColor=black)
+![PANDAS](https://img.shields.io/badge/pandas-%2336465D.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+![NUMPY](https://img.shields.io/badge/numpy-3a464b?style=for-the-badge&logo=numpy&logoColor=white)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

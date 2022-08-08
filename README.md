@@ -47,6 +47,18 @@
 ![PANDAS](https://img.shields.io/badge/pandas-%2336465D.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/numpy-3a464b?style=for-the-badge&logo=numpy&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+
+[instagram]: https://www.instagram.com/hassan._.niaziii/
+[facebook]: https://bit.ly/3dX3Nvo
+[linkedin]: http://linkedin.com/in/muhammad-hassan-niazi
+
+
+<!--
+**Mhassanniazi/Mhassanniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -65,11 +77,4 @@
 <img align="left" alt="QT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 
 
-[instagram]: https://www.instagram.com/hassan._.niaziii/
-[facebook]: https://bit.ly/3dX3Nvo
-[linkedin]: http://linkedin.com/in/muhammad-hassan-niazi
-
-
-<!--
-**Mhassanniazi/Mhassanniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ -->
